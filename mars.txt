@@ -1,4 +1,4 @@
 something
 new line
-mars mars
-mars?
+
+conflict removed
